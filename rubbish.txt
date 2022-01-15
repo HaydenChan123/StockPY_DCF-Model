@@ -1,0 +1,1 @@
+["ALXN", "BLK", "CAG", "COG", "CTL", "CXO", "ETFC", "FLIR", "FLT", "FMC", "IDXX", "KSU", "LB", "LNC", "LVS", "MRK", "MXIM", "MYL", "NBL", "PKI", "TIF", "VAR"]
